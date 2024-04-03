@@ -3,9 +3,7 @@ I currently work as Audit Innovator at Confirm. There, I am responsible for inno
 We do so by building innovative software and improving existing processes.
 If you want to know more about me, you can find me on [LinkedIn](https://www.linkedin.com/in/perryvandermeer/).
 In my free time I contribute to various open-source projects like:
-- [laravel/framework](https://github.com/laravel/framework)
-- [livewire/livewire](https://github.com/livewire/livewire)
-- [laravel/docs](https://github.com/laravel/docs)
-- [laravel/breeze](https://github.com/laravel/breeze)
-- [laravel/ui](https://github.com/laravel/ui)
-- [laravel-lang/lang](https://github.com/laravel-lang/lang)
+- [laravel/framework](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3APerryvanderMeer+is%3Amerged)
+- [livewire/livewire](https://github.com/livewire/livewire/pulls?q=is%3Apr+author%3APerryvanderMeer+is%3Amerged)
+- [laravel/docs](https://github.com/laravel/docs/pulls?q=is%3Apr+author%3APerryvanderMeer+is%3Amerged)
+- [laravel/breeze](https://github.com/laravel/breeze/pulls?q=is%3Apr+author%3APerryvanderMeer+is%3Amerged)

@@ -8,3 +8,7 @@ In my free time I make your development experience better by contributing to var
 - [Livewire](https://github.com/livewire/livewire/pulls?q=is%3Apr+author%3APerryvanderMeer+is%3Amerged)
 
 Using Livewire? You'll definitely like [Devtools for Livewire](https://devtools-for-livewire.com)!
+
+![Devtools for Livewire](https://devtools-for-livewire.com/images/header.png)
+
+[Grab your license now!](https://devtools-for-livewire.com/)

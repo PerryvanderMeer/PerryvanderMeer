@@ -9,6 +9,6 @@ In my free time I make your development experience better by contributing to var
 
 Using Livewire? You'll definitely like [Devtools for Livewire](https://devtools-for-livewire.com)!
 
-![Devtools for Livewire](https://devtools-for-livewire.com/images/devtools-for-livewire.png)
+[![Devtools for Livewire](https://devtools-for-livewire.com/images/devtools-for-livewire.png)](https://devtools-for-livewire.com/)
 
 [Grab your license now!](https://devtools-for-livewire.com/)
